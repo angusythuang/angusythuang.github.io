@@ -10,6 +10,14 @@ layout: home
 * No more ransom
 * EmsiSoft
 
+# 其他文章
+
+<ul>
+{% for post in site.posts %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}</li>
+{% endfor %}
+</ul>
+
 ## 聯絡方式
 - 手機 : 0956622010 黃先生
 - 信箱 : angusythuang@gmail.com
