@@ -12,9 +12,13 @@ date: 2025-09-02 10:00:00 +0800
 * [No More Ransom](https://www.nomoreransom.org/zht_Hant/decryption-tools.html)
 * [EmsiSoft](https://www.emsisoft.com/en/ransomware-decryption/)
 
+---
+
 # 勒索軟體解密工具比較表 ： No More Ransom 與 EmsiSoft
 
-以下為「No More Ransom」計畫中列出的勒索軟體變種與 EmsiSoft 提供的對應解密工具比較表。表格顯示每個勒索軟體變種是否具有 EmsiSoft 的解密工具。
+以下為「No More Ransom」計畫中列出的勒索軟體變種與 EmsiSoft 提供的對應解密工具比較表。
+
+表格顯示每個勒索軟體變種是否具有 EmsiSoft 的解密工具。
 
 | 勒索軟體變種             | No More Ransom | EmsiSoft 解密工具 |
 |--------------------------|----------------|-------------------|
@@ -206,3 +210,14 @@ date: 2025-09-02 10:00:00 +0800
 - **EmsiSoft 解密工具**：EmsiSoft 為「No More Ransom」計畫中部分勒索軟體變種提供了專屬解密工具。表格中以 ✅ 表示 EmsiSoft 提供解密工具，❌ 表示無對應解密工具。
 - 部分勒索軟體變種（如 GandCrab、Hive）具有多個版本，解密工具可能僅涵蓋特定版本（例如 Puma Ransom 的 STOP Puma 解密工具）。
 - 對於未有 EmsiSoft 解密工具的勒索軟體變種，可能可透過「No More Ransom」計畫或其他資安提供者的工具或方法進行解密。
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table, th, td {
+  border: 1px solid #ccc;
+  padding: 5px;
+}
+</style>
