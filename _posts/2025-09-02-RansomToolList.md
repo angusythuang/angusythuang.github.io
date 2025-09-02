@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ransom Tool List"
+title: "公開工具比較"
 date: 2025-09-02 10:00:00 +0800
 ---
 
